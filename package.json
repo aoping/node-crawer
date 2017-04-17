@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Promise": "^1.0.5",
+    "bluebird": "^3.5.0",
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  }
+}
